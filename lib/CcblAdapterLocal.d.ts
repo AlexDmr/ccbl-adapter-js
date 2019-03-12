@@ -1,4 +1,4 @@
-ashimport { CCBLProgramObjectInterface, HumanReadableProgram, VariableDescription, Vocabulary } from "ccbl-js/lib/ProgramObjectInterface";
+import { CCBLProgramObjectInterface, HumanReadableProgram, VariableDescription, Vocabulary } from "ccbl-js/lib/ProgramObjectInterface";
 import { CcblAdapterInterface, PROGRAM_ID, subProgDeclaration, subProgInstanciation } from "./CcblAdapterInterface";
 import { Observable } from "rxjs";
 import { Update } from "./Traces/update";
