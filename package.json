@@ -10,7 +10,7 @@
     "adapter"
   ],
   "main": "lib/main.js",
-  "dependencies": {
+  "peerDependencies": {
     "ccbl-js": "^0.0.4",
     "rxjs": "^6.4.0"
   }
