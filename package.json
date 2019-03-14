@@ -11,7 +11,7 @@
   ],
   "main": "lib/main.js",
   "peerDependencies": {
-    "ccbl-js": "^0.0.4",
+    "ccbl-js": "^0.0.5",
     "rxjs": "^6.4.0"
   }
 }
